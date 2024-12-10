@@ -28,7 +28,7 @@ try{
     scanner.close();
     } 
     catch (InputMismatchException e){
-        System.out.println("O campo de idade e altura devem ser númericos");
+        System.err.println("O campo de idade e altura devem ser númericos");
     }
 }
 }
