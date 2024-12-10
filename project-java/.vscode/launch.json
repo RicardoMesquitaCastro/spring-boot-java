@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Excecoes",
+            "request": "launch",
+            "mainClass": "Excecoes",
+            "projectName": "project-java_74d5a820"
+        },
+        {
+            "type": "java",
             "name": "AboutMeInput",
             "request": "launch",
             "mainClass": "edu.AboutMeInput",
